@@ -1,0 +1,26 @@
+[] Find correct numbers for joystick buttons and axis in Constants.java 
+
+===Subsystems===
+[x] DriveTrain 
+[] Intake 
+[] Transition
+[] Shooter 
+[] Color Wheel 
+
+===Commands===
+[] Teleop Driving get directions set right using robot simulator. 
+[] Raise and lower intake (solenoid)
+[] Spin intake in 
+[] Spin intake out
+[] Spin transition out 
+[] Spin transition in 
+[] Run shooter (do we need to go in reverse?)
+[] Raise color wheel motor
+[] Spin color wheel
+
+===Cameras===
+[] Get camera server working for driver aid webcam. 
+
+===Autonomous===
+[] Limelight targeting for shooter. 
+[] Seperate auto modes and a chooser. 
