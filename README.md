@@ -1,2 +1,2 @@
 # MHR_Programming
-Repo for all FRC robot code. 
+Version 3 robot code rewrite by George
